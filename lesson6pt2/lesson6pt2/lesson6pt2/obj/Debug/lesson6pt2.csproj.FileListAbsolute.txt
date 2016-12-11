@@ -1,0 +1,2 @@
+D:\C_sharp\lesson6pt2\lesson6pt2\lesson6pt2\bin\Debug\lesson6pt2.exe.config
+D:\flles\git6\lesson6pt2\lesson6pt2\lesson6pt2\bin\Debug\lesson6pt2.exe.config
